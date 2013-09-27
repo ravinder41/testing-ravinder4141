@@ -1,0 +1,4 @@
+http://test.npg-services.nature.com/naturewebapi/users/accounts;email=ravinde12r.kumar@adi-mps.com?client=f0xtr@t
+
+
+http://test-www.nature.com/api/users/email/ravinder.kumar@adi-mps.com?client=f0xtr@t
